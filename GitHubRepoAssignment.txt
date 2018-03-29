@@ -1,0 +1,17 @@
+1) I used the cd .. command to change directories where my GitHubRepoAssignment was.
+
+2) I had to make a new directory using the mkdir command
+
+3) I then created a readme.md file within that directory
+
+4) I initialized a repo using the git init command.
+
+5) Then I added my file to be staged by the git add command.
+
+6) I then checked the status to see which state I was in using the git status command.
+
+7) I then committed my files using the git commit -m command. The -m option is always used to supply a message updating any changes that may have occurred. 
+
+8) I then gathered 2 links from the GitHub site to copy and paste into my command line.
+
+9) Then I pushed the file.
